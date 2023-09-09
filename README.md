@@ -8,6 +8,7 @@
 ## About me
 
 - 🌱 Learning AWS and software architecture things
+- ⚛️ Quantum computing enthusiast
 - ❤️ In love with opensource
 - 🐧 Linux superuser
 - ⌨️ Huge VIM fan
