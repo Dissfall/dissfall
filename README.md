@@ -7,7 +7,6 @@
 
 ## About me
 
-- 🦈 I'm currently working at [@whitesharx](https://github.com/whitesharx)
 - 🌱 Learning AWS and software architecture things
 - ❤️ In love with opensource
 - 🐧 Linux superuser
@@ -15,7 +14,6 @@
 
 ### Info
 
-- **dmail@eml.cc**
 - [linkedin](https://www.linkedin.com/in/george-lukyanov-a018a3143/)
 
 <h3 align="left">Languages and Tools:</h3>
