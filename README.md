@@ -1,4 +1,4 @@
-# Hi there, I'm Heorhi Lukyanov 👋
+# Hi there, I'm Heorhi Lukyanau 👋
 
 ## Lead TypeScript/Node.js Backend Developer | AWS Cloud Architect | Open Source Contributor
 
@@ -95,7 +95,7 @@ I believe in the power of open source to drive innovation and learning. I active
 
 ### 📫 Let's Connect
 
-- 💼 **LinkedIn:** [Heorhi Lukyanov](https://www.linkedin.com/in/heorhi-lukyanau/)
+- 💼 **LinkedIn:** [Heorhi Lukyanau](https://www.linkedin.com/in/heorhi-lukyanau/)
 - 📧 **Email:** heorhi@lukyanau.me
 - 🌐 **Portfolio:** [lukyanau.me](https://lukyanau.me)
 
