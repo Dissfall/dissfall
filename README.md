@@ -1,21 +1,110 @@
-<h1 align="center">Hi 👋, I'm George</h1>
-<h3 align="center">A NodeJS back-end developer from Belarus</h3>
+# Hi there, I'm Heorhi Lukyanov 👋
+
+## Lead TypeScript/Node.js Backend Developer | AWS Cloud Architect | Open Source Contributor
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heorhi-lukyanau/)
+[![Location](https://img.shields.io/badge/Location-Lithuania-green?style=flat-square)](https://github.com/dissfall)
+[![Focus](https://img.shields.io/badge/Focus-Backend%20Development-orange?style=flat-square)](https://github.com/dissfall)
+
+### 🚀 About Me
+
+I'm a passionate backend developer specializing in building scalable, distributed systems with **TypeScript** and **Node.js**. With a strong foundation in cloud architecture and a love for clean, maintainable code, I focus on creating robust solutions that solve real-world problems.
+
+- 🔧 **Current Focus:** AWS cloud architecture, microservices, and event-driven systems
+- 🌱 **Learning:** Advanced AWS services, Domain-Driven Design, and system architecture patterns
+- ⚛️ **Side Interest:** Quantum computing and its applications in cryptography
+- 🐧 **Environment:** Linux power user with extensive DevOps experience
+- ⌨️ **Editor:** VIM enthusiast (yes, I can exit it)
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="600" height="380" src="https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dissfall&show_icons=true&theme=system&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dissfall&layout=compact&langs_count=8&theme=system"/>
 </p>
 
-## About me
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=system" alt="GitHub Streak Stats"/>
+</p>
 
-- 🌱 Learning AWS and software architecture things
-- ⚛️ Quantum computing enthusiast
-- ❤️ In love with opensource
-- 🐧 Linux superuser
-- ⌨️ Huge VIM fan
+---
 
-### Info
+### 💻 Tech Stack
 
-- [linkedin](https://www.linkedin.com/in/george-lukyanov-a018a3143/)
+#### **Core Technologies**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+#### **Backend & APIs**
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### **Message Queues & Monitoring**
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+#### **Testing**
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+---
+
+### 🎯 Core Competencies
+
+```typescript
+const expertise = {
+  backend: ['Node.js', 'TypeScript', 'Express', 'NestJS'],
+  databases: ['PostgreSQL', 'MongoDB', 'Redis'],
+  cloud: ['AWS EC2', 'Lambda', 'S3', 'RDS', 'CloudFormation'],
+  architecture: ['Microservices', 'Event-Driven', 'RESTful APIs', 'GraphQL'],
+  practices: ['TDD', 'CI/CD', 'Code Review', 'Agile'],
+  tools: ['Docker', 'Git', 'Linux', 'VIM']
+};
+```
+
+---
+
+### 📈 Contribution Graph
+
+[![Heorhi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dissfall&theme=system)](https://github.com/yourusername)
+
+---
+
+### 🤝 Open Source Philosophy
+
+I believe in the power of open source to drive innovation and learning. I actively contribute to projects that align with my expertise in backend development and cloud architecture. Feel free to explore my repositories and don't hesitate to open issues or submit PRs!
+
+---
+
+### 📫 Let's Connect
+
+- 💼 **LinkedIn:** [Heorhi Lukyanov](https://www.linkedin.com/in/heorhi-lukyanau/)
+- 📧 **Email:** heorhi@lukyanau.me
+- 🌐 **Portfolio:** [lukyanau.me](https://lukyanau.me)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dissfall&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>"Clean code always looks like it was written by someone who cares."</i>
+</p>
